@@ -28,7 +28,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  yarn install 
+  npm install 
 ```
 
 Configure .ENV vars
