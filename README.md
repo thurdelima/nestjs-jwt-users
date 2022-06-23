@@ -1,4 +1,4 @@
-# 🙆‍♂️ Api of Books
+# 🙆‍♂️ Api of Users
 
 Api created by NestJS with JWT authentication. 
 
